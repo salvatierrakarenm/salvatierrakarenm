@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GCBA
 - 🌱 I’m currently learning Typescript and React in deep
-- 👯 I’m looking to collaborate on react projects
+- 👯 I’m looking to collaborate on react projects 
 - 📫 How to reach me: salvatierrakarenm@gmail.com
 -->
