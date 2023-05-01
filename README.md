@@ -1,3 +1,4 @@
+<h1 align="center"> Hi 👋, I'm Karen </h1>
 <h3 align="center">A creative frontend developer who loves develop things on internet</h3>
 
 - 🔭 I’m currently working on **GCBA**
